@@ -1,0 +1,11 @@
+	1. cd to folder
+	2. git init
+	3. add a new file to repo
+	4. git status
+	5. when you make changes to your repo, git notices that a file has changed but won't do anything with it. 
+	To add a file to a commit, you first need to add it to the staging environment. To do this, you can use the git add <filename>
+	6. rerun  git status
+	7. run git commit -m "Your message about the commit"
+	8. create a New repository in 
+	9. git remote add origin https://github.com/mynewrepository.git
+git push -u origin master
