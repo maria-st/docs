@@ -26,5 +26,9 @@ To add a file to a commit, you first need to add it to the staging environment. 
 13. When changes are made use git push origin
 To retrieve latest changes from Github use git fetch origin + git pull 
 
+<<<<<<< HEAD
  
 get the first pull from git <git clone [HTTPS ADDRESS]>
+=======
+14. Saulius test
+>>>>>>> 0001add0d53c99b0329b49bfe05743b11e4fe504
