@@ -24,3 +24,4 @@ It will look something like https://github.com/yourgithub/test-repo.git
 8. Push your changes to the branch `git push origin <branch name>`. If it is the master branch `git push origin`. Enter your username and password
 9. Go to your Github repository and create a 'New pull request'
 10. Master of the repository that you commited to will make pull requests merge and changes will appear in the original master branch
+11. Others will get the changes to local repositories by `git pull origin master`
