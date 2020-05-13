@@ -16,10 +16,10 @@ It will look something like https://github.com/yourgithub/test-repo.git
 ## How to commit to an open source project
 1. Find the repository and Fork it
 2. In a command line navigate to folder where the local repository will be stored `cd <your folder>`
-3. `git clone [HTTPS ADDRESS]`
-4. Make the changes
+3. In a command line type: `git clone [HTTPS ADDRESS]`, you can get http address from your github forked repository webpage. 
+4. Make the changes in your local repository files.
 5. Check the status `git status`
-6. Stage the files that you want to commit `git add <filename>`. Or commit all the files `git add .`
+6. Stage the files that you want to commit `git add <filename>`. Or commit all the files `git add .` seems like nothing will happen in command line. It's OK. Files are staged (addded and ready for commit).
 7. Commit the files to your local repository `git commit -m "Your message about the commit"`
 8. In order to push the changes to the remote project find how branch is called `git remote`
 9. Push your changes to the branch `git push origin <branch name>`. If it is the master branch `git push origin`. Enter your username and password
