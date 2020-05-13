@@ -15,7 +15,7 @@ It will look something like https://github.com/yourgithub/test-repo.git
 
 ## How to commit to an open source project
 1. Find the repository and Fork it
-2. In a command line `cd <your folder>` where the local repository will be stored
+2. In a command line navigate to folder where the local repository will be stored `cd <your folder>`
 3. `git clone [HTTPS ADDRESS]`
 4. Make the changes
 5. Check the status `git status`
