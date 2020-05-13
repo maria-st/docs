@@ -26,4 +26,4 @@ It will look something like https://github.com/yourgithub/test-repo.git
 10. Go to your Github repository (webpage: <code>) and create a 'New pull request'
 11. Master of the repository that you commited to will make pull requests merge and changes will appear in the original master branch
 12. Others will get the changes to local repositories by `git pull origin master`
-13. I'm very hungry, please give me food!!! NOW!!
+
