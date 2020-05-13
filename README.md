@@ -27,3 +27,8 @@ It will look something like https://github.com/yourgithub/test-repo.git
 11. Master of the repository that you commited to will make pull requests merge and changes will appear in the original master branch
 12. Others will get the changes to local repositories by `git pull origin master`
 
+To do: basic theory:
+daily actions
+1.
+2.
+....
