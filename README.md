@@ -23,6 +23,6 @@ It will look something like https://github.com/yourgithub/test-repo.git
 7. Commit the files to your local repository `git commit -m "Your message about the commit"`
 8. In order to push the changes to the remote project find how branch is called `git remote`
 9. Push your changes to the branch `git push origin <branch name>`. If it is the master branch `git push origin`. Enter your username and password
-10. Go to your Github repository and create a 'New pull request'
+10. Go to your Github repository (webpage: <code>) and create a 'New pull request'
 11. Master of the repository that you commited to will make pull requests merge and changes will appear in the original master branch
 12. Others will get the changes to local repositories by `git pull origin master`
