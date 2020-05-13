@@ -32,3 +32,8 @@ get the first pull from git <git clone [HTTPS ADDRESS]>
 =======
 14. Saulius test
 >>>>>>> 0001add0d53c99b0329b49bfe05743b11e4fe504
+
+
+Some changes
+
+And some more changes
