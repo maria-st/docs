@@ -1,6 +1,7 @@
 # docs
 Notes for myself
 1. [Notes about github](#github)
+2. [Notes about webpack](#webpack)
 # github
 ### How to push first project to github
 1. Make sure you have a git installed or install it here https://desktop.github.com
@@ -33,3 +34,5 @@ daily actions
 1.
 2.
 ....
+
+# webpack
