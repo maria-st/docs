@@ -14,7 +14,6 @@ Notes for myself
 It will look something like https://github.com/yourgithub/test-repo.git
 9. in a command line add your local repository to remote repository `git remote add origin https://github.com/yourgithub/test-repo.git`
 10. Push your changes `git push origin master`
-# github
 ### How to commit to an open source project
 1. Find the repository and Fork it
 2. In a command line navigate to folder where the local repository will be stored `cd <your folder>`
