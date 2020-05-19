@@ -1,6 +1,8 @@
 # docs
 Notes for myself
-## How to push first project to github
+1. [Notes about github](#github)
+# github
+### How to push first project to github
 1. Make sure you have a git installed or install it here https://desktop.github.com
 2. Create a folder that you want to commit
 3. Go to command line and `cd <your folder>` 
@@ -12,8 +14,8 @@ Notes for myself
 It will look something like https://github.com/yourgithub/test-repo.git
 9. in a command line add your local repository to remote repository `git remote add origin https://github.com/yourgithub/test-repo.git`
 10. Push your changes `git push origin master`
-
-## How to commit to an open source project
+# github
+### How to commit to an open source project
 1. Find the repository and Fork it
 2. In a command line navigate to folder where the local repository will be stored `cd <your folder>`
 3. In a command line type: `git clone [HTTPS ADDRESS]`, you can get http address from your github forked repository webpage. 
